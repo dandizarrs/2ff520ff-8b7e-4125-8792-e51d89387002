@@ -1,0 +1,12 @@
+1712074879.082898424s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/acquisition/TwoPhotonSeries/starting_time/0?versionId=OMwcuMEb6fr2Rv.rSsZQo1EmpwWFefLR
+1712074879.084605268s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=acquisition%2FTwoPhotonSeries%2Fstarting_time%2F0&download=true
+1712074881.0587282s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/bckgndJitter/starting_time/0?versionId=.Yf6OUyag6XgrYdm6oBQf04kZu0S0RA9
+1712074881.059758694s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2FbckgndJitter%2Fstarting_time%2F0&download=true
+1712074881.117049596s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/morph/starting_time/0?versionId=jZeBHtLjmxamtQ3aq_6fgWmBuVOnE21v
+1712074881.117955481s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2Fmorph%2Fstarting_time%2F0&download=true
+1712074881.210422932s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/reward/starting_time/0?versionId=YcN4_.YlxFk7_4_kjgVDAv6.ZRtKb1.A
+1712074881.211813753s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2Freward%2Fstarting_time%2F0&download=true
+1712074881.313216228s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/towerJitter/starting_time/0?versionId=phvV1JbDDfiyrDS33.64yjrro7Qjt_U8
+1712074881.315999817s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2FtowerJitter%2Fstarting_time%2F0&download=true
+1712074881.405365862s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/wallJitter/starting_time/0?versionId=0pxOezj5A7JSqgV0QV.YgDSnakQqrPoz
+1712074881.407176679s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2FwallJitter%2Fstarting_time%2F0&download=true

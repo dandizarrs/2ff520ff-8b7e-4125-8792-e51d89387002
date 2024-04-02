@@ -1,0 +1,10 @@
+1712074880.995820153s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/bckgndJitter/data/.zarray?versionId=FAJoRJt3fn.9tThqZxgj.NSXezy394Tr
+1712074880.997738935s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2FbckgndJitter%2Fdata%2F.zarray&download=true
+1712074881.077481774s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/morph/data/.zarray?versionId=jCjkcFV28bKssuosKLInQnBB9a1Qc_qZ
+1712074881.078520841s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2Fmorph%2Fdata%2F.zarray&download=true
+1712074881.150972813s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/reward/data/.zarray?versionId=_KoaozZtjHKohRULW0tWW.AMhyk3RQwU
+1712074881.156177768s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2Freward%2Fdata%2F.zarray&download=true
+1712074881.248676632s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/towerJitter/data/.zarray?versionId=NHkxCgHoSBwzTlypgAveIMVMLgsx3Sqf
+1712074881.250086302s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2FtowerJitter%2Fdata%2F.zarray&download=true
+1712074881.347464043s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/wallJitter/data/.zarray?versionId=97IEmeTxa9It.Gi4IPe5X_4IjVnKWIgZ
+1712074881.349029121s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2FwallJitter%2Fdata%2F.zarray&download=true

@@ -1,0 +1,16 @@
+1712074879.072417488s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/acquisition/TwoPhotonSeries/starting_time/.zarray?versionId=g8qP3HjTq3GThWrcAsxIahzAVg90Nr6T
+1712074879.074166145s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=acquisition%2FTwoPhotonSeries%2Fstarting_time%2F.zarray&download=true
+1712074879.251867443s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/general/optophysiology/ImagingPlane/excitation_lambda/.zarray?versionId=n0wOnDMZQF7sML0a.XVyOsYMVUwWP4Fd
+1712074879.252801079s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=general%2Foptophysiology%2FImagingPlane%2Fexcitation_lambda%2F.zarray&download=true
+1712074879.268142157s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/general/optophysiology/ImagingPlane/imaging_rate/.zarray?versionId=uEvFPI7qjjklrv1a9to3grox67yy6phS
+1712074879.269196939s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=general%2Foptophysiology%2FImagingPlane%2Fimaging_rate%2F.zarray&download=true
+1712074881.021628323s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/bckgndJitter/starting_time/.zarray?versionId=OkMsdk8R3RxKq1TzjMRELnjpGb9ZpdnP
+1712074881.022504199s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2FbckgndJitter%2Fstarting_time%2F.zarray&download=true
+1712074881.107989434s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/morph/starting_time/.zarray?versionId=TOJy013ZVwlyblzIAkuO_PJG08S5wa8C
+1712074881.109082786s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2Fmorph%2Fstarting_time%2F.zarray&download=true
+1712074881.195661281s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/reward/starting_time/.zarray?versionId=.UYVhj3RQNQZkeeYwQEJ8rZ_UfvVQRLK
+1712074881.196723058s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2Freward%2Fstarting_time%2F.zarray&download=true
+1712074881.288825313s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/towerJitter/starting_time/.zarray?versionId=YEBkjg5MF4jPjxo31q3_q1AbyqY3q99K
+1712074881.293965634s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2FtowerJitter%2Fstarting_time%2F.zarray&download=true
+1712074881.387170388s 1 https://dandiarchive.s3.amazonaws.com/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/stimulus/presentation/wallJitter/starting_time/.zarray?versionId=NWvjz3bv3RbL.SKdvHnwq4m51G3UlGzv
+1712074881.388405733s 1 https://api.dandiarchive.org/api/zarr/2ff520ff-8b7e-4125-8792-e51d89387002/files?prefix=stimulus%2Fpresentation%2FwallJitter%2Fstarting_time%2F.zarray&download=true
